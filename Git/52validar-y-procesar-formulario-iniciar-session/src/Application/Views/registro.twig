@@ -1,0 +1,39 @@
+{% extends 'layout.twig' %}
+
+{% block title %}Registro{% endblock %}
+{% block stylesheets %}
+    <link href="../Style/registro.css" type="text/css" rel="stylesheet" />
+{% endblock %}
+
+{% block content %}
+<div class="row justify-content-center">
+    <div class="col-8 offset-2 contenedorRegistro">
+        <h1 class="text-center mt-5 tituloRegistro">Crear una cuenta</h1>
+        <hr>
+
+        {% include 'form_errors.twig' %}
+
+        <form method="post" name="procesar_registro" id="signup">
+            <div class="form-group">
+                <label for="email">Correo electrónico</label>
+                <input type="email" class="form-control" name="email" id="email" value="{{ post.email }}" />
+            </div>
+            <div class="form-group">
+                <label for="username">Nombre de usuario</label>
+                <input type="text" class="form-control" name="username" id="username" value="{{ post.username }}" />
+            </div>
+            <div class="form-group">
+                <label for="password">Contraseña</label>
+                <input type="password" class="form-control" name="password" id="password" />
+            </div>
+            <div class="form-group">
+                <input type="submit" class="btn btn-primary btn-block mt-2" name="submit" value="Crear una cuenta"/>
+            </div>
+        </form>
+        <form method="POST" action="/login">
+            <div class="col-ms-12">
+                <button type="submit" name="submit" class="btn btn-primary btn-block mt-2">Iniciar Sesion</button>
+            </div>
+        </form>
+</div>
+{% endblock %}

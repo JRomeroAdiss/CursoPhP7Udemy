@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="WEB_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/52validar-y-procesar-formulario-iniciar-session/src/Application" isTestSource="false" packagePrefix="Application\" />
+      <excludeFolder url="file://$MODULE_DIR$/52validar-y-procesar-formulario-iniciar-session/vendor/composer" />
+      <excludeFolder url="file://$MODULE_DIR$/52validar-y-procesar-formulario-iniciar-session/vendor/doctrine/annotations" />
+      <excludeFolder url="file://$MODULE_DIR$/52validar-y-procesar-formulario-iniciar-session/vendor/doctrine/cache" />
+      <excludeFolder url="file://$MODULE_DIR$/52validar-y-procesar-formulario-iniciar-session/vendor/doctrine/collections" />
+      <excludeFolder url="file://$MODULE_DIR$/52validar-y-procesar-formulario-iniciar-session/vendor/doctrine/common" />
+      <excludeFolder url="file://$MODULE_DIR$/52validar-y-procesar-formulario-iniciar-session/vendor/doctrine/dbal" />
+      <excludeFolder url="file://$MODULE_DIR$/52validar-y-procesar-formulario-iniciar-session/vendor/doctrine/deprecations" />
+      <excludeFolder url="file://$MODULE_DIR$/52validar-y-procesar-formulario-iniciar-session/vendor/doctrine/event-manager" />
+      <excludeFolder url="file://$MODULE_DIR$/52validar-y-procesar-formulario-iniciar-session/vendor/doctrine/inflector" />
+      <excludeFolder url="file://$MODULE_DIR$/52validar-y-procesar-formulario-iniciar-session/vendor/doctrine/instantiator" />
+      <excludeFolder url="file://$MODULE_DIR$/52validar-y-procesar-formulario-iniciar-session/vendor/doctrine/lexer" />
+      <excludeFolder url="file://$MODULE_DIR$/52validar-y-procesar-formulario-iniciar-session/vendor/doctrine/orm" />
+      <excludeFolder url="file://$MODULE_DIR$/52validar-y-procesar-formulario-iniciar-session/vendor/doctrine/persistence" />
+      <excludeFolder url="file://$MODULE_DIR$/52validar-y-procesar-formulario-iniciar-session/vendor/doctrine/reflection" />
+      <excludeFolder url="file://$MODULE_DIR$/52validar-y-procesar-formulario-iniciar-session/vendor/laravel/serializable-closure" />
+      <excludeFolder url="file://$MODULE_DIR$/52validar-y-procesar-formulario-iniciar-session/vendor/nikic/fast-route" />
+      <excludeFolder url="file://$MODULE_DIR$/52validar-y-procesar-formulario-iniciar-session/vendor/php-di/invoker" />
+      <excludeFolder url="file://$MODULE_DIR$/52validar-y-procesar-formulario-iniciar-session/vendor/php-di/php-di" />
+      <excludeFolder url="file://$MODULE_DIR$/52validar-y-procesar-formulario-iniciar-session/vendor/php-di/phpdoc-reader" />
+      <excludeFolder url="file://$MODULE_DIR$/52validar-y-procesar-formulario-iniciar-session/vendor/psr/cache" />
+      <excludeFolder url="file://$MODULE_DIR$/52validar-y-procesar-formulario-iniciar-session/vendor/psr/container" />
+      <excludeFolder url="file://$MODULE_DIR$/52validar-y-procesar-formulario-iniciar-session/vendor/symfony/console" />
+      <excludeFolder url="file://$MODULE_DIR$/52validar-y-procesar-formulario-iniciar-session/vendor/symfony/deprecation-contracts" />
+      <excludeFolder url="file://$MODULE_DIR$/52validar-y-procesar-formulario-iniciar-session/vendor/symfony/polyfill-ctype" />
+      <excludeFolder url="file://$MODULE_DIR$/52validar-y-procesar-formulario-iniciar-session/vendor/symfony/polyfill-mbstring" />
+      <excludeFolder url="file://$MODULE_DIR$/52validar-y-procesar-formulario-iniciar-session/vendor/symfony/polyfill-php73" />
+      <excludeFolder url="file://$MODULE_DIR$/52validar-y-procesar-formulario-iniciar-session/vendor/symfony/polyfill-php80" />
+      <excludeFolder url="file://$MODULE_DIR$/52validar-y-procesar-formulario-iniciar-session/vendor/symfony/service-contracts" />
+      <excludeFolder url="file://$MODULE_DIR$/52validar-y-procesar-formulario-iniciar-session/vendor/twig/twig" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>

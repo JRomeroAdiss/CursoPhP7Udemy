@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="WEB_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/33configurar-doctrine/src/Application" isTestSource="false" packagePrefix="Application\" />
+      <sourceFolder url="file://$MODULE_DIR$/spec" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/tests" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/34configurar-doctrine-cli/src/Application" isTestSource="false" packagePrefix="Application\" />
+      <sourceFolder url="file://$MODULE_DIR$/35primera-entidad-doctrine/src/Application" isTestSource="false" packagePrefix="Application\" />
+      <excludeFolder url="file://$MODULE_DIR$/33configurar-doctrine/vendor/composer" />
+      <excludeFolder url="file://$MODULE_DIR$/33configurar-doctrine/vendor/doctrine/cache" />
+      <excludeFolder url="file://$MODULE_DIR$/33configurar-doctrine/vendor/doctrine/collections" />
+      <excludeFolder url="file://$MODULE_DIR$/33configurar-doctrine/vendor/doctrine/common" />
+      <excludeFolder url="file://$MODULE_DIR$/33configurar-doctrine/vendor/doctrine/dbal" />
+      <excludeFolder url="file://$MODULE_DIR$/33configurar-doctrine/vendor/doctrine/deprecations" />
+      <excludeFolder url="file://$MODULE_DIR$/33configurar-doctrine/vendor/doctrine/event-manager" />
+      <excludeFolder url="file://$MODULE_DIR$/33configurar-doctrine/vendor/doctrine/inflector" />
+      <excludeFolder url="file://$MODULE_DIR$/33configurar-doctrine/vendor/doctrine/instantiator" />
+      <excludeFolder url="file://$MODULE_DIR$/33configurar-doctrine/vendor/doctrine/lexer" />
+      <excludeFolder url="file://$MODULE_DIR$/33configurar-doctrine/vendor/doctrine/orm" />
+      <excludeFolder url="file://$MODULE_DIR$/33configurar-doctrine/vendor/doctrine/persistence" />
+      <excludeFolder url="file://$MODULE_DIR$/33configurar-doctrine/vendor/laravel/serializable-closure" />
+      <excludeFolder url="file://$MODULE_DIR$/33configurar-doctrine/vendor/nikic/fast-route" />
+      <excludeFolder url="file://$MODULE_DIR$/33configurar-doctrine/vendor/php-di/invoker" />
+      <excludeFolder url="file://$MODULE_DIR$/33configurar-doctrine/vendor/php-di/php-di" />
+      <excludeFolder url="file://$MODULE_DIR$/33configurar-doctrine/vendor/php-di/phpdoc-reader" />
+      <excludeFolder url="file://$MODULE_DIR$/33configurar-doctrine/vendor/psr/cache" />
+      <excludeFolder url="file://$MODULE_DIR$/33configurar-doctrine/vendor/psr/container" />
+      <excludeFolder url="file://$MODULE_DIR$/33configurar-doctrine/vendor/psr/log" />
+      <excludeFolder url="file://$MODULE_DIR$/33configurar-doctrine/vendor/symfony/console" />
+      <excludeFolder url="file://$MODULE_DIR$/33configurar-doctrine/vendor/symfony/deprecation-contracts" />
+      <excludeFolder url="file://$MODULE_DIR$/33configurar-doctrine/vendor/symfony/polyfill-ctype" />
+      <excludeFolder url="file://$MODULE_DIR$/33configurar-doctrine/vendor/symfony/polyfill-mbstring" />
+      <excludeFolder url="file://$MODULE_DIR$/33configurar-doctrine/vendor/symfony/polyfill-php73" />
+      <excludeFolder url="file://$MODULE_DIR$/33configurar-doctrine/vendor/symfony/polyfill-php80" />
+      <excludeFolder url="file://$MODULE_DIR$/33configurar-doctrine/vendor/symfony/service-contracts" />
+      <excludeFolder url="file://$MODULE_DIR$/33configurar-doctrine/vendor/twig/twig" />
+      <excludeFolder url="file://$MODULE_DIR$/33configurar-doctrine/vendor/doctrine/annotations" />
+      <excludeFolder url="file://$MODULE_DIR$/33configurar-doctrine/vendor/doctrine/reflection" />
+      <excludeFolder url="file://$MODULE_DIR$/33configurar-doctrine/vendor/symfony/cache" />
+      <excludeFolder url="file://$MODULE_DIR$/33configurar-doctrine/vendor/symfony/cache-contracts" />
+      <excludeFolder url="file://$MODULE_DIR$/33configurar-doctrine/vendor/symfony/var-exporter" />
+      <excludeFolder url="file://$MODULE_DIR$/34configurar-doctrine-cli/vendor/composer" />
+      <excludeFolder url="file://$MODULE_DIR$/34configurar-doctrine-cli/vendor/doctrine/annotations" />
+      <excludeFolder url="file://$MODULE_DIR$/34configurar-doctrine-cli/vendor/doctrine/cache" />
+      <excludeFolder url="file://$MODULE_DIR$/34configurar-doctrine-cli/vendor/doctrine/collections" />
+      <excludeFolder url="file://$MODULE_DIR$/34configurar-doctrine-cli/vendor/doctrine/common" />
+      <excludeFolder url="file://$MODULE_DIR$/34configurar-doctrine-cli/vendor/doctrine/dbal" />
+      <excludeFolder url="file://$MODULE_DIR$/34configurar-doctrine-cli/vendor/doctrine/deprecations" />
+      <excludeFolder url="file://$MODULE_DIR$/34configurar-doctrine-cli/vendor/doctrine/event-manager" />
+      <excludeFolder url="file://$MODULE_DIR$/34configurar-doctrine-cli/vendor/doctrine/inflector" />
+      <excludeFolder url="file://$MODULE_DIR$/34configurar-doctrine-cli/vendor/doctrine/instantiator" />
+      <excludeFolder url="file://$MODULE_DIR$/34configurar-doctrine-cli/vendor/doctrine/lexer" />
+      <excludeFolder url="file://$MODULE_DIR$/34configurar-doctrine-cli/vendor/doctrine/orm" />
+      <excludeFolder url="file://$MODULE_DIR$/34configurar-doctrine-cli/vendor/doctrine/persistence" />
+      <excludeFolder url="file://$MODULE_DIR$/34configurar-doctrine-cli/vendor/doctrine/reflection" />
+      <excludeFolder url="file://$MODULE_DIR$/34configurar-doctrine-cli/vendor/laravel/serializable-closure" />
+      <excludeFolder url="file://$MODULE_DIR$/34configurar-doctrine-cli/vendor/nikic/fast-route" />
+      <excludeFolder url="file://$MODULE_DIR$/34configurar-doctrine-cli/vendor/php-di/invoker" />
+      <excludeFolder url="file://$MODULE_DIR$/34configurar-doctrine-cli/vendor/php-di/php-di" />
+      <excludeFolder url="file://$MODULE_DIR$/34configurar-doctrine-cli/vendor/php-di/phpdoc-reader" />
+      <excludeFolder url="file://$MODULE_DIR$/34configurar-doctrine-cli/vendor/psr/cache" />
+      <excludeFolder url="file://$MODULE_DIR$/34configurar-doctrine-cli/vendor/psr/container" />
+      <excludeFolder url="file://$MODULE_DIR$/34configurar-doctrine-cli/vendor/symfony/console" />
+      <excludeFolder url="file://$MODULE_DIR$/34configurar-doctrine-cli/vendor/symfony/deprecation-contracts" />
+      <excludeFolder url="file://$MODULE_DIR$/34configurar-doctrine-cli/vendor/symfony/polyfill-ctype" />
+      <excludeFolder url="file://$MODULE_DIR$/34configurar-doctrine-cli/vendor/symfony/polyfill-mbstring" />
+      <excludeFolder url="file://$MODULE_DIR$/34configurar-doctrine-cli/vendor/symfony/polyfill-php73" />
+      <excludeFolder url="file://$MODULE_DIR$/34configurar-doctrine-cli/vendor/symfony/polyfill-php80" />
+      <excludeFolder url="file://$MODULE_DIR$/34configurar-doctrine-cli/vendor/symfony/service-contracts" />
+      <excludeFolder url="file://$MODULE_DIR$/34configurar-doctrine-cli/vendor/twig/twig" />
+      <excludeFolder url="file://$MODULE_DIR$/35primera-entidad-doctrine/vendor/composer" />
+      <excludeFolder url="file://$MODULE_DIR$/35primera-entidad-doctrine/vendor/doctrine/annotations" />
+      <excludeFolder url="file://$MODULE_DIR$/35primera-entidad-doctrine/vendor/doctrine/cache" />
+      <excludeFolder url="file://$MODULE_DIR$/35primera-entidad-doctrine/vendor/doctrine/collections" />
+      <excludeFolder url="file://$MODULE_DIR$/35primera-entidad-doctrine/vendor/doctrine/common" />
+      <excludeFolder url="file://$MODULE_DIR$/35primera-entidad-doctrine/vendor/doctrine/dbal" />
+      <excludeFolder url="file://$MODULE_DIR$/35primera-entidad-doctrine/vendor/doctrine/deprecations" />
+      <excludeFolder url="file://$MODULE_DIR$/35primera-entidad-doctrine/vendor/doctrine/event-manager" />
+      <excludeFolder url="file://$MODULE_DIR$/35primera-entidad-doctrine/vendor/doctrine/inflector" />
+      <excludeFolder url="file://$MODULE_DIR$/35primera-entidad-doctrine/vendor/doctrine/instantiator" />
+      <excludeFolder url="file://$MODULE_DIR$/35primera-entidad-doctrine/vendor/doctrine/lexer" />
+      <excludeFolder url="file://$MODULE_DIR$/35primera-entidad-doctrine/vendor/doctrine/orm" />
+      <excludeFolder url="file://$MODULE_DIR$/35primera-entidad-doctrine/vendor/doctrine/persistence" />
+      <excludeFolder url="file://$MODULE_DIR$/35primera-entidad-doctrine/vendor/doctrine/reflection" />
+      <excludeFolder url="file://$MODULE_DIR$/35primera-entidad-doctrine/vendor/laravel/serializable-closure" />
+      <excludeFolder url="file://$MODULE_DIR$/35primera-entidad-doctrine/vendor/nikic/fast-route" />
+      <excludeFolder url="file://$MODULE_DIR$/35primera-entidad-doctrine/vendor/php-di/invoker" />
+      <excludeFolder url="file://$MODULE_DIR$/35primera-entidad-doctrine/vendor/php-di/php-di" />
+      <excludeFolder url="file://$MODULE_DIR$/35primera-entidad-doctrine/vendor/php-di/phpdoc-reader" />
+      <excludeFolder url="file://$MODULE_DIR$/35primera-entidad-doctrine/vendor/psr/cache" />
+      <excludeFolder url="file://$MODULE_DIR$/35primera-entidad-doctrine/vendor/psr/container" />
+      <excludeFolder url="file://$MODULE_DIR$/35primera-entidad-doctrine/vendor/symfony/console" />
+      <excludeFolder url="file://$MODULE_DIR$/35primera-entidad-doctrine/vendor/symfony/deprecation-contracts" />
+      <excludeFolder url="file://$MODULE_DIR$/35primera-entidad-doctrine/vendor/symfony/polyfill-ctype" />
+      <excludeFolder url="file://$MODULE_DIR$/35primera-entidad-doctrine/vendor/symfony/polyfill-mbstring" />
+      <excludeFolder url="file://$MODULE_DIR$/35primera-entidad-doctrine/vendor/symfony/polyfill-php73" />
+      <excludeFolder url="file://$MODULE_DIR$/35primera-entidad-doctrine/vendor/symfony/polyfill-php80" />
+      <excludeFolder url="file://$MODULE_DIR$/35primera-entidad-doctrine/vendor/symfony/service-contracts" />
+      <excludeFolder url="file://$MODULE_DIR$/35primera-entidad-doctrine/vendor/twig/twig" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>

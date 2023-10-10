@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="MessDetectorOptionsConfiguration">
+    <option name="transferred" value="true" />
+  </component>
+  <component name="PHPCSFixerOptionsConfiguration">
+    <option name="transferred" value="true" />
+  </component>
+  <component name="PHPCodeSnifferOptionsConfiguration">
+    <option name="highlightLevel" value="WARNING" />
+    <option name="transferred" value="true" />
+  </component>
+  <component name="PhpIncludePathManager">
+    <include_path>
+      <path value="$PROJECT_DIR$/33configurar-doctrine/vendor/symfony/deprecation-contracts" />
+      <path value="$PROJECT_DIR$/33configurar-doctrine/vendor/symfony/polyfill-ctype" />
+      <path value="$PROJECT_DIR$/33configurar-doctrine/vendor/symfony/polyfill-mbstring" />
+      <path value="$PROJECT_DIR$/33configurar-doctrine/vendor/symfony/polyfill-php73" />
+      <path value="$PROJECT_DIR$/33configurar-doctrine/vendor/symfony/polyfill-php80" />
+      <path value="$PROJECT_DIR$/33configurar-doctrine/vendor/symfony/service-contracts" />
+      <path value="$PROJECT_DIR$/33configurar-doctrine/vendor/symfony/var-exporter" />
+      <path value="$PROJECT_DIR$/33configurar-doctrine/vendor/doctrine/annotations" />
+      <path value="$PROJECT_DIR$/33configurar-doctrine/vendor/doctrine/cache" />
+      <path value="$PROJECT_DIR$/33configurar-doctrine/vendor/doctrine/collections" />
+      <path value="$PROJECT_DIR$/33configurar-doctrine/vendor/doctrine/common" />
+      <path value="$PROJECT_DIR$/33configurar-doctrine/vendor/doctrine/dbal" />
+      <path value="$PROJECT_DIR$/33configurar-doctrine/vendor/doctrine/deprecations" />
+      <path value="$PROJECT_DIR$/33configurar-doctrine/vendor/doctrine/event-manager" />
+      <path value="$PROJECT_DIR$/33configurar-doctrine/vendor/doctrine/inflector" />
+      <path value="$PROJECT_DIR$/33configurar-doctrine/vendor/doctrine/instantiator" />
+      <path value="$PROJECT_DIR$/33configurar-doctrine/vendor/doctrine/lexer" />
+      <path value="$PROJECT_DIR$/33configurar-doctrine/vendor/doctrine/orm" />
+      <path value="$PROJECT_DIR$/33configurar-doctrine/vendor/doctrine/persistence" />
+      <path value="$PROJECT_DIR$/33configurar-doctrine/vendor/doctrine/reflection" />
+      <path value="$PROJECT_DIR$/33configurar-doctrine/vendor/composer" />
+      <path value="$PROJECT_DIR$/33configurar-doctrine/vendor/psr/cache" />
+      <path value="$PROJECT_DIR$/33configurar-doctrine/vendor/psr/container" />
+      <path value="$PROJECT_DIR$/33configurar-doctrine/vendor/psr/log" />
+      <path value="$PROJECT_DIR$/33configurar-doctrine/vendor/twig/twig" />
+      <path value="$PROJECT_DIR$/33configurar-doctrine/vendor/nikic/fast-route" />
+      <path value="$PROJECT_DIR$/33configurar-doctrine/vendor/php-di/invoker" />
+      <path value="$PROJECT_DIR$/33configurar-doctrine/vendor/php-di/php-di" />
+      <path value="$PROJECT_DIR$/33configurar-doctrine/vendor/php-di/phpdoc-reader" />
+      <path value="$PROJECT_DIR$/33configurar-doctrine/vendor/laravel/serializable-closure" />
+      <path value="$PROJECT_DIR$/33configurar-doctrine/vendor/symfony/cache" />
+      <path value="$PROJECT_DIR$/33configurar-doctrine/vendor/symfony/cache-contracts" />
+      <path value="$PROJECT_DIR$/33configurar-doctrine/vendor/symfony/console" />
+      <path value="$PROJECT_DIR$/34configurar-doctrine-cli/vendor/psr/cache" />
+      <path value="$PROJECT_DIR$/34configurar-doctrine-cli/vendor/psr/container" />
+      <path value="$PROJECT_DIR$/34configurar-doctrine-cli/vendor/twig/twig" />
+      <path value="$PROJECT_DIR$/34configurar-doctrine-cli/vendor/nikic/fast-route" />
+      <path value="$PROJECT_DIR$/34configurar-doctrine-cli/vendor/php-di/invoker" />
+      <path value="$PROJECT_DIR$/34configurar-doctrine-cli/vendor/php-di/php-di" />
+      <path value="$PROJECT_DIR$/34configurar-doctrine-cli/vendor/php-di/phpdoc-reader" />
+      <path value="$PROJECT_DIR$/34configurar-doctrine-cli/vendor/laravel/serializable-closure" />
+      <path value="$PROJECT_DIR$/34configurar-doctrine-cli/vendor/symfony/console" />
+      <path value="$PROJECT_DIR$/34configurar-doctrine-cli/vendor/symfony/deprecation-contracts" />
+      <path value="$PROJECT_DIR$/34configurar-doctrine-cli/vendor/symfony/polyfill-ctype" />
+      <path value="$PROJECT_DIR$/34configurar-doctrine-cli/vendor/symfony/polyfill-mbstring" />
+      <path value="$PROJECT_DIR$/34configurar-doctrine-cli/vendor/symfony/polyfill-php73" />
+      <path value="$PROJECT_DIR$/34configurar-doctrine-cli/vendor/symfony/polyfill-php80" />
+      <path value="$PROJECT_DIR$/34configurar-doctrine-cli/vendor/symfony/service-contracts" />
+      <path value="$PROJECT_DIR$/34configurar-doctrine-cli/vendor/doctrine/annotations" />
+      <path value="$PROJECT_DIR$/34configurar-doctrine-cli/vendor/doctrine/cache" />
+      <path value="$PROJECT_DIR$/34configurar-doctrine-cli/vendor/doctrine/collections" />
+      <path value="$PROJECT_DIR$/34configurar-doctrine-cli/vendor/doctrine/common" />
+      <path value="$PROJECT_DIR$/34configurar-doctrine-cli/vendor/doctrine/dbal" />
+      <path value="$PROJECT_DIR$/34configurar-doctrine-cli/vendor/doctrine/deprecations" />
+      <path value="$PROJECT_DIR$/34configurar-doctrine-cli/vendor/doctrine/event-manager" />
+      <path value="$PROJECT_DIR$/34configurar-doctrine-cli/vendor/doctrine/inflector" />
+      <path value="$PROJECT_DIR$/34configurar-doctrine-cli/vendor/doctrine/instantiator" />
+      <path value="$PROJECT_DIR$/34configurar-doctrine-cli/vendor/doctrine/lexer" />
+      <path value="$PROJECT_DIR$/34configurar-doctrine-cli/vendor/doctrine/orm" />
+      <path value="$PROJECT_DIR$/34configurar-doctrine-cli/vendor/doctrine/persistence" />
+      <path value="$PROJECT_DIR$/34configurar-doctrine-cli/vendor/doctrine/reflection" />
+      <path value="$PROJECT_DIR$/34configurar-doctrine-cli/vendor/composer" />
+      <path value="$PROJECT_DIR$/35primera-entidad-doctrine/vendor/doctrine/cache" />
+      <path value="$PROJECT_DIR$/35primera-entidad-doctrine/vendor/doctrine/annotations" />
+      <path value="$PROJECT_DIR$/35primera-entidad-doctrine/vendor/twig/twig" />
+      <path value="$PROJECT_DIR$/35primera-entidad-doctrine/vendor/symfony/polyfill-php73" />
+      <path value="$PROJECT_DIR$/35primera-entidad-doctrine/vendor/doctrine/persistence" />
+      <path value="$PROJECT_DIR$/35primera-entidad-doctrine/vendor/doctrine/dbal" />
+      <path value="$PROJECT_DIR$/35primera-entidad-doctrine/vendor/nikic/fast-route" />
+      <path value="$PROJECT_DIR$/35primera-entidad-doctrine/vendor/symfony/polyfill-php80" />
+      <path value="$PROJECT_DIR$/35primera-entidad-doctrine/vendor/doctrine/orm" />
+      <path value="$PROJECT_DIR$/35primera-entidad-doctrine/vendor/php-di/invoker" />
+      <path value="$PROJECT_DIR$/35primera-entidad-doctrine/vendor/symfony/console" />
+      <path value="$PROJECT_DIR$/35primera-entidad-doctrine/vendor/symfony/polyfill-mbstring" />
+      <path value="$PROJECT_DIR$/35primera-entidad-doctrine/vendor/doctrine/deprecations" />
+      <path value="$PROJECT_DIR$/35primera-entidad-doctrine/vendor/doctrine/reflection" />
+      <path value="$PROJECT_DIR$/35primera-entidad-doctrine/vendor/doctrine/inflector" />
+      <path value="$PROJECT_DIR$/35primera-entidad-doctrine/vendor/doctrine/instantiator" />
+      <path value="$PROJECT_DIR$/35primera-entidad-doctrine/vendor/php-di/phpdoc-reader" />
+      <path value="$PROJECT_DIR$/35primera-entidad-doctrine/vendor/doctrine/collections" />
+      <path value="$PROJECT_DIR$/35primera-entidad-doctrine/vendor/symfony/service-contracts" />
+      <path value="$PROJECT_DIR$/35primera-entidad-doctrine/vendor/psr/cache" />
+      <path value="$PROJECT_DIR$/35primera-entidad-doctrine/vendor/doctrine/lexer" />
+      <path value="$PROJECT_DIR$/35primera-entidad-doctrine/vendor/psr/container" />
+      <path value="$PROJECT_DIR$/35primera-entidad-doctrine/vendor/symfony/deprecation-contracts" />
+      <path value="$PROJECT_DIR$/35primera-entidad-doctrine/vendor/laravel/serializable-closure" />
+      <path value="$PROJECT_DIR$/35primera-entidad-doctrine/vendor/doctrine/common" />
+      <path value="$PROJECT_DIR$/35primera-entidad-doctrine/vendor/doctrine/event-manager" />
+      <path value="$PROJECT_DIR$/35primera-entidad-doctrine/vendor/symfony/polyfill-ctype" />
+      <path value="$PROJECT_DIR$/35primera-entidad-doctrine/vendor/php-di/php-di" />
+      <path value="$PROJECT_DIR$/35primera-entidad-doctrine/vendor/composer" />
+    </include_path>
+  </component>
+  <component name="PhpProjectSharedConfiguration" php_language_level="7.4">
+    <option name="suggestChangeDefaultLanguageLevel" value="false" />
+  </component>
+  <component name="PhpStanOptionsConfiguration">
+    <option name="transferred" value="true" />
+  </component>
+  <component name="PhpUnit">
+    <phpunit_settings>
+      <PhpUnitSettings configuration_file_path="$PROJECT_DIR$/33configurar-doctrine/vendor/nikic/fast-route/phpunit.xml" custom_loader_path="$PROJECT_DIR$/33configurar-doctrine/vendor/autoload.php" use_configuration_file="true" />
+    </phpunit_settings>
+  </component>
+  <component name="PsalmOptionsConfiguration">
+    <option name="transferred" value="true" />
+  </component>
+</project>

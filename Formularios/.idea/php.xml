@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="MessDetectorOptionsConfiguration">
+    <option name="transferred" value="true" />
+  </component>
+  <component name="PHPCSFixerOptionsConfiguration">
+    <option name="transferred" value="true" />
+  </component>
+  <component name="PHPCodeSnifferOptionsConfiguration">
+    <option name="highlightLevel" value="WARNING" />
+    <option name="transferred" value="true" />
+  </component>
+  <component name="PhpIncludePathManager">
+    <include_path>
+      <path value="$PROJECT_DIR$/44obtener-usuario-y-posts-doctrine/vendor/symfony/polyfill-php80" />
+      <path value="$PROJECT_DIR$/44obtener-usuario-y-posts-doctrine/vendor/composer" />
+      <path value="$PROJECT_DIR$/44obtener-usuario-y-posts-doctrine/vendor/psr/cache" />
+      <path value="$PROJECT_DIR$/44obtener-usuario-y-posts-doctrine/vendor/psr/container" />
+      <path value="$PROJECT_DIR$/44obtener-usuario-y-posts-doctrine/vendor/laravel/serializable-closure" />
+      <path value="$PROJECT_DIR$/44obtener-usuario-y-posts-doctrine/vendor/php-di/php-di" />
+      <path value="$PROJECT_DIR$/44obtener-usuario-y-posts-doctrine/vendor/php-di/phpdoc-reader" />
+      <path value="$PROJECT_DIR$/44obtener-usuario-y-posts-doctrine/vendor/php-di/invoker" />
+      <path value="$PROJECT_DIR$/44obtener-usuario-y-posts-doctrine/vendor/twig/twig" />
+      <path value="$PROJECT_DIR$/44obtener-usuario-y-posts-doctrine/vendor/doctrine/lexer" />
+      <path value="$PROJECT_DIR$/44obtener-usuario-y-posts-doctrine/vendor/doctrine/deprecations" />
+      <path value="$PROJECT_DIR$/44obtener-usuario-y-posts-doctrine/vendor/doctrine/event-manager" />
+      <path value="$PROJECT_DIR$/44obtener-usuario-y-posts-doctrine/vendor/doctrine/instantiator" />
+      <path value="$PROJECT_DIR$/44obtener-usuario-y-posts-doctrine/vendor/nikic/fast-route" />
+      <path value="$PROJECT_DIR$/44obtener-usuario-y-posts-doctrine/vendor/doctrine/dbal" />
+      <path value="$PROJECT_DIR$/44obtener-usuario-y-posts-doctrine/vendor/doctrine/cache" />
+      <path value="$PROJECT_DIR$/44obtener-usuario-y-posts-doctrine/vendor/doctrine/orm" />
+      <path value="$PROJECT_DIR$/44obtener-usuario-y-posts-doctrine/vendor/symfony/console" />
+      <path value="$PROJECT_DIR$/44obtener-usuario-y-posts-doctrine/vendor/doctrine/reflection" />
+      <path value="$PROJECT_DIR$/44obtener-usuario-y-posts-doctrine/vendor/symfony/polyfill-mbstring" />
+      <path value="$PROJECT_DIR$/44obtener-usuario-y-posts-doctrine/vendor/doctrine/collections" />
+      <path value="$PROJECT_DIR$/44obtener-usuario-y-posts-doctrine/vendor/symfony/deprecation-contracts" />
+      <path value="$PROJECT_DIR$/44obtener-usuario-y-posts-doctrine/vendor/doctrine/persistence" />
+      <path value="$PROJECT_DIR$/44obtener-usuario-y-posts-doctrine/vendor/symfony/service-contracts" />
+      <path value="$PROJECT_DIR$/44obtener-usuario-y-posts-doctrine/vendor/doctrine/annotations" />
+      <path value="$PROJECT_DIR$/44obtener-usuario-y-posts-doctrine/vendor/symfony/polyfill-ctype" />
+      <path value="$PROJECT_DIR$/44obtener-usuario-y-posts-doctrine/vendor/doctrine/inflector" />
+      <path value="$PROJECT_DIR$/44obtener-usuario-y-posts-doctrine/vendor/symfony/polyfill-php73" />
+      <path value="$PROJECT_DIR$/44obtener-usuario-y-posts-doctrine/vendor/doctrine/common" />
+      <path value="$PROJECT_DIR$/45crear-formulario-de-registro/vendor/symfony/polyfill-php80" />
+      <path value="$PROJECT_DIR$/45crear-formulario-de-registro/vendor/composer" />
+      <path value="$PROJECT_DIR$/45crear-formulario-de-registro/vendor/psr/cache" />
+      <path value="$PROJECT_DIR$/45crear-formulario-de-registro/vendor/psr/container" />
+      <path value="$PROJECT_DIR$/45crear-formulario-de-registro/vendor/laravel/serializable-closure" />
+      <path value="$PROJECT_DIR$/45crear-formulario-de-registro/vendor/php-di/php-di" />
+      <path value="$PROJECT_DIR$/45crear-formulario-de-registro/vendor/php-di/phpdoc-reader" />
+      <path value="$PROJECT_DIR$/45crear-formulario-de-registro/vendor/php-di/invoker" />
+      <path value="$PROJECT_DIR$/45crear-formulario-de-registro/vendor/twig/twig" />
+      <path value="$PROJECT_DIR$/45crear-formulario-de-registro/vendor/doctrine/lexer" />
+      <path value="$PROJECT_DIR$/45crear-formulario-de-registro/vendor/doctrine/deprecations" />
+      <path value="$PROJECT_DIR$/45crear-formulario-de-registro/vendor/doctrine/event-manager" />
+      <path value="$PROJECT_DIR$/45crear-formulario-de-registro/vendor/doctrine/instantiator" />
+      <path value="$PROJECT_DIR$/45crear-formulario-de-registro/vendor/nikic/fast-route" />
+      <path value="$PROJECT_DIR$/45crear-formulario-de-registro/vendor/doctrine/dbal" />
+      <path value="$PROJECT_DIR$/45crear-formulario-de-registro/vendor/doctrine/cache" />
+      <path value="$PROJECT_DIR$/45crear-formulario-de-registro/vendor/doctrine/orm" />
+      <path value="$PROJECT_DIR$/45crear-formulario-de-registro/vendor/symfony/console" />
+      <path value="$PROJECT_DIR$/45crear-formulario-de-registro/vendor/doctrine/reflection" />
+      <path value="$PROJECT_DIR$/45crear-formulario-de-registro/vendor/symfony/polyfill-mbstring" />
+      <path value="$PROJECT_DIR$/45crear-formulario-de-registro/vendor/doctrine/collections" />
+      <path value="$PROJECT_DIR$/45crear-formulario-de-registro/vendor/symfony/deprecation-contracts" />
+      <path value="$PROJECT_DIR$/45crear-formulario-de-registro/vendor/doctrine/persistence" />
+      <path value="$PROJECT_DIR$/45crear-formulario-de-registro/vendor/symfony/service-contracts" />
+      <path value="$PROJECT_DIR$/45crear-formulario-de-registro/vendor/doctrine/annotations" />
+      <path value="$PROJECT_DIR$/45crear-formulario-de-registro/vendor/symfony/polyfill-ctype" />
+      <path value="$PROJECT_DIR$/45crear-formulario-de-registro/vendor/doctrine/inflector" />
+      <path value="$PROJECT_DIR$/45crear-formulario-de-registro/vendor/symfony/polyfill-php73" />
+      <path value="$PROJECT_DIR$/45crear-formulario-de-registro/vendor/doctrine/common" />
+      <path value="$PROJECT_DIR$/47crear-session-usuario-al-registrarse/vendor/doctrine/instantiator" />
+      <path value="$PROJECT_DIR$/47crear-session-usuario-al-registrarse/vendor/php-di/phpdoc-reader" />
+      <path value="$PROJECT_DIR$/47crear-session-usuario-al-registrarse/vendor/doctrine/collections" />
+      <path value="$PROJECT_DIR$/47crear-session-usuario-al-registrarse/vendor/symfony/service-contracts" />
+      <path value="$PROJECT_DIR$/47crear-session-usuario-al-registrarse/vendor/psr/cache" />
+      <path value="$PROJECT_DIR$/47crear-session-usuario-al-registrarse/vendor/doctrine/lexer" />
+      <path value="$PROJECT_DIR$/47crear-session-usuario-al-registrarse/vendor/psr/container" />
+      <path value="$PROJECT_DIR$/47crear-session-usuario-al-registrarse/vendor/symfony/deprecation-contracts" />
+      <path value="$PROJECT_DIR$/47crear-session-usuario-al-registrarse/vendor/laravel/serializable-closure" />
+      <path value="$PROJECT_DIR$/47crear-session-usuario-al-registrarse/vendor/doctrine/common" />
+      <path value="$PROJECT_DIR$/47crear-session-usuario-al-registrarse/vendor/doctrine/event-manager" />
+      <path value="$PROJECT_DIR$/47crear-session-usuario-al-registrarse/vendor/symfony/polyfill-ctype" />
+      <path value="$PROJECT_DIR$/47crear-session-usuario-al-registrarse/vendor/php-di/php-di" />
+      <path value="$PROJECT_DIR$/47crear-session-usuario-al-registrarse/vendor/composer" />
+      <path value="$PROJECT_DIR$/47crear-session-usuario-al-registrarse/vendor/doctrine/cache" />
+      <path value="$PROJECT_DIR$/47crear-session-usuario-al-registrarse/vendor/doctrine/annotations" />
+      <path value="$PROJECT_DIR$/47crear-session-usuario-al-registrarse/vendor/twig/twig" />
+      <path value="$PROJECT_DIR$/47crear-session-usuario-al-registrarse/vendor/symfony/polyfill-php73" />
+      <path value="$PROJECT_DIR$/47crear-session-usuario-al-registrarse/vendor/doctrine/persistence" />
+      <path value="$PROJECT_DIR$/47crear-session-usuario-al-registrarse/vendor/doctrine/dbal" />
+      <path value="$PROJECT_DIR$/47crear-session-usuario-al-registrarse/vendor/nikic/fast-route" />
+      <path value="$PROJECT_DIR$/47crear-session-usuario-al-registrarse/vendor/symfony/polyfill-php80" />
+      <path value="$PROJECT_DIR$/47crear-session-usuario-al-registrarse/vendor/doctrine/orm" />
+      <path value="$PROJECT_DIR$/47crear-session-usuario-al-registrarse/vendor/php-di/invoker" />
+      <path value="$PROJECT_DIR$/47crear-session-usuario-al-registrarse/vendor/symfony/console" />
+      <path value="$PROJECT_DIR$/47crear-session-usuario-al-registrarse/vendor/symfony/polyfill-mbstring" />
+      <path value="$PROJECT_DIR$/47crear-session-usuario-al-registrarse/vendor/doctrine/deprecations" />
+      <path value="$PROJECT_DIR$/47crear-session-usuario-al-registrarse/vendor/doctrine/reflection" />
+      <path value="$PROJECT_DIR$/47crear-session-usuario-al-registrarse/vendor/doctrine/inflector" />
+      <path value="$PROJECT_DIR$/46validar-y-procesar-formulario-de-registro/vendor/symfony/polyfill-mbstring" />
+      <path value="$PROJECT_DIR$/46validar-y-procesar-formulario-de-registro/vendor/doctrine/deprecations" />
+      <path value="$PROJECT_DIR$/46validar-y-procesar-formulario-de-registro/vendor/doctrine/reflection" />
+      <path value="$PROJECT_DIR$/46validar-y-procesar-formulario-de-registro/vendor/doctrine/inflector" />
+      <path value="$PROJECT_DIR$/46validar-y-procesar-formulario-de-registro/vendor/doctrine/instantiator" />
+      <path value="$PROJECT_DIR$/46validar-y-procesar-formulario-de-registro/vendor/php-di/phpdoc-reader" />
+      <path value="$PROJECT_DIR$/46validar-y-procesar-formulario-de-registro/vendor/doctrine/collections" />
+      <path value="$PROJECT_DIR$/46validar-y-procesar-formulario-de-registro/vendor/symfony/service-contracts" />
+      <path value="$PROJECT_DIR$/46validar-y-procesar-formulario-de-registro/vendor/psr/cache" />
+      <path value="$PROJECT_DIR$/46validar-y-procesar-formulario-de-registro/vendor/doctrine/lexer" />
+      <path value="$PROJECT_DIR$/46validar-y-procesar-formulario-de-registro/vendor/psr/container" />
+      <path value="$PROJECT_DIR$/46validar-y-procesar-formulario-de-registro/vendor/symfony/deprecation-contracts" />
+      <path value="$PROJECT_DIR$/46validar-y-procesar-formulario-de-registro/vendor/laravel/serializable-closure" />
+      <path value="$PROJECT_DIR$/46validar-y-procesar-formulario-de-registro/vendor/doctrine/common" />
+      <path value="$PROJECT_DIR$/46validar-y-procesar-formulario-de-registro/vendor/doctrine/event-manager" />
+      <path value="$PROJECT_DIR$/46validar-y-procesar-formulario-de-registro/vendor/symfony/polyfill-ctype" />
+      <path value="$PROJECT_DIR$/46validar-y-procesar-formulario-de-registro/vendor/php-di/php-di" />
+      <path value="$PROJECT_DIR$/46validar-y-procesar-formulario-de-registro/vendor/composer" />
+      <path value="$PROJECT_DIR$/46validar-y-procesar-formulario-de-registro/vendor/doctrine/cache" />
+      <path value="$PROJECT_DIR$/46validar-y-procesar-formulario-de-registro/vendor/doctrine/annotations" />
+      <path value="$PROJECT_DIR$/46validar-y-procesar-formulario-de-registro/vendor/twig/twig" />
+      <path value="$PROJECT_DIR$/46validar-y-procesar-formulario-de-registro/vendor/symfony/polyfill-php73" />
+      <path value="$PROJECT_DIR$/46validar-y-procesar-formulario-de-registro/vendor/doctrine/persistence" />
+      <path value="$PROJECT_DIR$/46validar-y-procesar-formulario-de-registro/vendor/doctrine/dbal" />
+      <path value="$PROJECT_DIR$/46validar-y-procesar-formulario-de-registro/vendor/nikic/fast-route" />
+      <path value="$PROJECT_DIR$/46validar-y-procesar-formulario-de-registro/vendor/symfony/polyfill-php80" />
+      <path value="$PROJECT_DIR$/46validar-y-procesar-formulario-de-registro/vendor/doctrine/orm" />
+      <path value="$PROJECT_DIR$/46validar-y-procesar-formulario-de-registro/vendor/php-di/invoker" />
+      <path value="$PROJECT_DIR$/46validar-y-procesar-formulario-de-registro/vendor/symfony/console" />
+    </include_path>
+  </component>
+  <component name="PhpProjectSharedConfiguration" php_language_level="7.4">
+    <option name="suggestChangeDefaultLanguageLevel" value="false" />
+  </component>
+  <component name="PhpStanOptionsConfiguration">
+    <option name="transferred" value="true" />
+  </component>
+  <component name="PsalmOptionsConfiguration">
+    <option name="transferred" value="true" />
+  </component>
+</project>

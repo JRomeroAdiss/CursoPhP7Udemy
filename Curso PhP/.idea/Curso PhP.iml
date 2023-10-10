@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="WEB_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/23dompdf/src/Admin" isTestSource="false" packagePrefix="Prueba\" />
+      <sourceFolder url="file://$MODULE_DIR$/29phpdi/src/Blog" isTestSource="false" packagePrefix="Blog\" />
+      <sourceFolder url="file://$MODULE_DIR$/29phpdi/src/Blog" isTestSource="false" packagePrefix="Blog\" />
+      <sourceFolder url="file://$MODULE_DIR$/23dompdf/src" isTestSource="false" packagePrefix="JRomero\23dompdf\" />
+      <sourceFolder url="file://$MODULE_DIR$/24psr4/src/Admin" isTestSource="false" packagePrefix="Prueba\" />
+      <sourceFolder url="file://$MODULE_DIR$/spec" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/tests" isTestSource="true" />
+      <excludeFolder url="file://$MODULE_DIR$/23dompdf/vendor/composer" />
+      <excludeFolder url="file://$MODULE_DIR$/23dompdf/vendor/dompdf/dompdf" />
+      <excludeFolder url="file://$MODULE_DIR$/23dompdf/vendor/masterminds/html5" />
+      <excludeFolder url="file://$MODULE_DIR$/23dompdf/vendor/phenx/php-font-lib" />
+      <excludeFolder url="file://$MODULE_DIR$/23dompdf/vendor/phenx/php-svg-lib" />
+      <excludeFolder url="file://$MODULE_DIR$/23dompdf/vendor/sabberworm/php-css-parser" />
+      <excludeFolder url="file://$MODULE_DIR$/24psr4/vendor/composer" />
+      <excludeFolder url="file://$MODULE_DIR$/26fastrouter/vendor/composer" />
+      <excludeFolder url="file://$MODULE_DIR$/26fastrouter/vendor/nikic/fast-route" />
+      <excludeFolder url="file://$MODULE_DIR$/29phpdi/vendor/composer" />
+      <excludeFolder url="file://$MODULE_DIR$/29phpdi/vendor/laravel/serializable-closure" />
+      <excludeFolder url="file://$MODULE_DIR$/29phpdi/vendor/nikic/fast-route" />
+      <excludeFolder url="file://$MODULE_DIR$/29phpdi/vendor/php-di/invoker" />
+      <excludeFolder url="file://$MODULE_DIR$/29phpdi/vendor/php-di/php-di" />
+      <excludeFolder url="file://$MODULE_DIR$/29phpdi/vendor/php-di/phpdoc-reader" />
+      <excludeFolder url="file://$MODULE_DIR$/29phpdi/vendor/psr/container" />
+      <excludeFolder url="file://$MODULE_DIR$/29phpdi/vendor/symfony/polyfill-ctype" />
+      <excludeFolder url="file://$MODULE_DIR$/29phpdi/vendor/symfony/polyfill-mbstring" />
+      <excludeFolder url="file://$MODULE_DIR$/29phpdi/vendor/twig/twig" />
+      <excludeFolder url="file://$MODULE_DIR$/29phpdi/vendor/composer" />
+      <excludeFolder url="file://$MODULE_DIR$/29phpdi/vendor/laravel/serializable-closure" />
+      <excludeFolder url="file://$MODULE_DIR$/29phpdi/vendor/nikic/fast-route" />
+      <excludeFolder url="file://$MODULE_DIR$/29phpdi/vendor/php-di/invoker" />
+      <excludeFolder url="file://$MODULE_DIR$/29phpdi/vendor/php-di/php-di" />
+      <excludeFolder url="file://$MODULE_DIR$/29phpdi/vendor/php-di/phpdoc-reader" />
+      <excludeFolder url="file://$MODULE_DIR$/29phpdi/vendor/psr/container" />
+      <excludeFolder url="file://$MODULE_DIR$/29phpdi/vendor/symfony/polyfill-ctype" />
+      <excludeFolder url="file://$MODULE_DIR$/29phpdi/vendor/symfony/polyfill-mbstring" />
+      <excludeFolder url="file://$MODULE_DIR$/29phpdi/vendor/twig/twig" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>

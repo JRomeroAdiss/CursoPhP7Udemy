@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="WEB_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/45crear-formulario-de-registro/src/Application" isTestSource="false" packagePrefix="Application\" />
+      <sourceFolder url="file://$MODULE_DIR$/46validar-y-procesar-formulario-de-registro/src/Application" isTestSource="false" packagePrefix="Application\" />
+      <sourceFolder url="file://$MODULE_DIR$/47crear-session-usuario-al-registrarse/src/Application" isTestSource="false" packagePrefix="Application\" />
+      <excludeFolder url="file://$MODULE_DIR$/45crear-formulario-de-registro/vendor/composer" />
+      <excludeFolder url="file://$MODULE_DIR$/45crear-formulario-de-registro/vendor/doctrine/annotations" />
+      <excludeFolder url="file://$MODULE_DIR$/45crear-formulario-de-registro/vendor/doctrine/cache" />
+      <excludeFolder url="file://$MODULE_DIR$/45crear-formulario-de-registro/vendor/doctrine/collections" />
+      <excludeFolder url="file://$MODULE_DIR$/45crear-formulario-de-registro/vendor/doctrine/common" />
+      <excludeFolder url="file://$MODULE_DIR$/45crear-formulario-de-registro/vendor/doctrine/dbal" />
+      <excludeFolder url="file://$MODULE_DIR$/45crear-formulario-de-registro/vendor/doctrine/deprecations" />
+      <excludeFolder url="file://$MODULE_DIR$/45crear-formulario-de-registro/vendor/doctrine/event-manager" />
+      <excludeFolder url="file://$MODULE_DIR$/45crear-formulario-de-registro/vendor/doctrine/inflector" />
+      <excludeFolder url="file://$MODULE_DIR$/45crear-formulario-de-registro/vendor/doctrine/instantiator" />
+      <excludeFolder url="file://$MODULE_DIR$/45crear-formulario-de-registro/vendor/doctrine/lexer" />
+      <excludeFolder url="file://$MODULE_DIR$/45crear-formulario-de-registro/vendor/doctrine/orm" />
+      <excludeFolder url="file://$MODULE_DIR$/45crear-formulario-de-registro/vendor/doctrine/persistence" />
+      <excludeFolder url="file://$MODULE_DIR$/45crear-formulario-de-registro/vendor/doctrine/reflection" />
+      <excludeFolder url="file://$MODULE_DIR$/45crear-formulario-de-registro/vendor/laravel/serializable-closure" />
+      <excludeFolder url="file://$MODULE_DIR$/45crear-formulario-de-registro/vendor/nikic/fast-route" />
+      <excludeFolder url="file://$MODULE_DIR$/45crear-formulario-de-registro/vendor/php-di/invoker" />
+      <excludeFolder url="file://$MODULE_DIR$/45crear-formulario-de-registro/vendor/php-di/php-di" />
+      <excludeFolder url="file://$MODULE_DIR$/45crear-formulario-de-registro/vendor/php-di/phpdoc-reader" />
+      <excludeFolder url="file://$MODULE_DIR$/45crear-formulario-de-registro/vendor/psr/cache" />
+      <excludeFolder url="file://$MODULE_DIR$/45crear-formulario-de-registro/vendor/psr/container" />
+      <excludeFolder url="file://$MODULE_DIR$/45crear-formulario-de-registro/vendor/symfony/console" />
+      <excludeFolder url="file://$MODULE_DIR$/45crear-formulario-de-registro/vendor/symfony/deprecation-contracts" />
+      <excludeFolder url="file://$MODULE_DIR$/45crear-formulario-de-registro/vendor/symfony/polyfill-ctype" />
+      <excludeFolder url="file://$MODULE_DIR$/45crear-formulario-de-registro/vendor/symfony/polyfill-mbstring" />
+      <excludeFolder url="file://$MODULE_DIR$/45crear-formulario-de-registro/vendor/symfony/polyfill-php73" />
+      <excludeFolder url="file://$MODULE_DIR$/45crear-formulario-de-registro/vendor/symfony/polyfill-php80" />
+      <excludeFolder url="file://$MODULE_DIR$/45crear-formulario-de-registro/vendor/symfony/service-contracts" />
+      <excludeFolder url="file://$MODULE_DIR$/45crear-formulario-de-registro/vendor/twig/twig" />
+      <excludeFolder url="file://$MODULE_DIR$/46validar-y-procesar-formulario-de-registro/vendor/composer" />
+      <excludeFolder url="file://$MODULE_DIR$/46validar-y-procesar-formulario-de-registro/vendor/doctrine/annotations" />
+      <excludeFolder url="file://$MODULE_DIR$/46validar-y-procesar-formulario-de-registro/vendor/doctrine/cache" />
+      <excludeFolder url="file://$MODULE_DIR$/46validar-y-procesar-formulario-de-registro/vendor/doctrine/collections" />
+      <excludeFolder url="file://$MODULE_DIR$/46validar-y-procesar-formulario-de-registro/vendor/doctrine/common" />
+      <excludeFolder url="file://$MODULE_DIR$/46validar-y-procesar-formulario-de-registro/vendor/doctrine/dbal" />
+      <excludeFolder url="file://$MODULE_DIR$/46validar-y-procesar-formulario-de-registro/vendor/doctrine/deprecations" />
+      <excludeFolder url="file://$MODULE_DIR$/46validar-y-procesar-formulario-de-registro/vendor/doctrine/event-manager" />
+      <excludeFolder url="file://$MODULE_DIR$/46validar-y-procesar-formulario-de-registro/vendor/doctrine/inflector" />
+      <excludeFolder url="file://$MODULE_DIR$/46validar-y-procesar-formulario-de-registro/vendor/doctrine/instantiator" />
+      <excludeFolder url="file://$MODULE_DIR$/46validar-y-procesar-formulario-de-registro/vendor/doctrine/lexer" />
+      <excludeFolder url="file://$MODULE_DIR$/46validar-y-procesar-formulario-de-registro/vendor/doctrine/orm" />
+      <excludeFolder url="file://$MODULE_DIR$/46validar-y-procesar-formulario-de-registro/vendor/doctrine/persistence" />
+      <excludeFolder url="file://$MODULE_DIR$/46validar-y-procesar-formulario-de-registro/vendor/doctrine/reflection" />
+      <excludeFolder url="file://$MODULE_DIR$/46validar-y-procesar-formulario-de-registro/vendor/laravel/serializable-closure" />
+      <excludeFolder url="file://$MODULE_DIR$/46validar-y-procesar-formulario-de-registro/vendor/nikic/fast-route" />
+      <excludeFolder url="file://$MODULE_DIR$/46validar-y-procesar-formulario-de-registro/vendor/php-di/invoker" />
+      <excludeFolder url="file://$MODULE_DIR$/46validar-y-procesar-formulario-de-registro/vendor/php-di/php-di" />
+      <excludeFolder url="file://$MODULE_DIR$/46validar-y-procesar-formulario-de-registro/vendor/php-di/phpdoc-reader" />
+      <excludeFolder url="file://$MODULE_DIR$/46validar-y-procesar-formulario-de-registro/vendor/psr/cache" />
+      <excludeFolder url="file://$MODULE_DIR$/46validar-y-procesar-formulario-de-registro/vendor/psr/container" />
+      <excludeFolder url="file://$MODULE_DIR$/46validar-y-procesar-formulario-de-registro/vendor/symfony/console" />
+      <excludeFolder url="file://$MODULE_DIR$/46validar-y-procesar-formulario-de-registro/vendor/symfony/deprecation-contracts" />
+      <excludeFolder url="file://$MODULE_DIR$/46validar-y-procesar-formulario-de-registro/vendor/symfony/polyfill-ctype" />
+      <excludeFolder url="file://$MODULE_DIR$/46validar-y-procesar-formulario-de-registro/vendor/symfony/polyfill-mbstring" />
+      <excludeFolder url="file://$MODULE_DIR$/46validar-y-procesar-formulario-de-registro/vendor/symfony/polyfill-php73" />
+      <excludeFolder url="file://$MODULE_DIR$/46validar-y-procesar-formulario-de-registro/vendor/symfony/polyfill-php80" />
+      <excludeFolder url="file://$MODULE_DIR$/46validar-y-procesar-formulario-de-registro/vendor/symfony/service-contracts" />
+      <excludeFolder url="file://$MODULE_DIR$/46validar-y-procesar-formulario-de-registro/vendor/twig/twig" />
+      <excludeFolder url="file://$MODULE_DIR$/47crear-session-usuario-al-registrarse/vendor/composer" />
+      <excludeFolder url="file://$MODULE_DIR$/47crear-session-usuario-al-registrarse/vendor/doctrine/annotations" />
+      <excludeFolder url="file://$MODULE_DIR$/47crear-session-usuario-al-registrarse/vendor/doctrine/cache" />
+      <excludeFolder url="file://$MODULE_DIR$/47crear-session-usuario-al-registrarse/vendor/doctrine/collections" />
+      <excludeFolder url="file://$MODULE_DIR$/47crear-session-usuario-al-registrarse/vendor/doctrine/common" />
+      <excludeFolder url="file://$MODULE_DIR$/47crear-session-usuario-al-registrarse/vendor/doctrine/dbal" />
+      <excludeFolder url="file://$MODULE_DIR$/47crear-session-usuario-al-registrarse/vendor/doctrine/deprecations" />
+      <excludeFolder url="file://$MODULE_DIR$/47crear-session-usuario-al-registrarse/vendor/doctrine/event-manager" />
+      <excludeFolder url="file://$MODULE_DIR$/47crear-session-usuario-al-registrarse/vendor/doctrine/inflector" />
+      <excludeFolder url="file://$MODULE_DIR$/47crear-session-usuario-al-registrarse/vendor/doctrine/instantiator" />
+      <excludeFolder url="file://$MODULE_DIR$/47crear-session-usuario-al-registrarse/vendor/doctrine/lexer" />
+      <excludeFolder url="file://$MODULE_DIR$/47crear-session-usuario-al-registrarse/vendor/doctrine/orm" />
+      <excludeFolder url="file://$MODULE_DIR$/47crear-session-usuario-al-registrarse/vendor/doctrine/persistence" />
+      <excludeFolder url="file://$MODULE_DIR$/47crear-session-usuario-al-registrarse/vendor/doctrine/reflection" />
+      <excludeFolder url="file://$MODULE_DIR$/47crear-session-usuario-al-registrarse/vendor/laravel/serializable-closure" />
+      <excludeFolder url="file://$MODULE_DIR$/47crear-session-usuario-al-registrarse/vendor/nikic/fast-route" />
+      <excludeFolder url="file://$MODULE_DIR$/47crear-session-usuario-al-registrarse/vendor/php-di/invoker" />
+      <excludeFolder url="file://$MODULE_DIR$/47crear-session-usuario-al-registrarse/vendor/php-di/php-di" />
+      <excludeFolder url="file://$MODULE_DIR$/47crear-session-usuario-al-registrarse/vendor/php-di/phpdoc-reader" />
+      <excludeFolder url="file://$MODULE_DIR$/47crear-session-usuario-al-registrarse/vendor/psr/cache" />
+      <excludeFolder url="file://$MODULE_DIR$/47crear-session-usuario-al-registrarse/vendor/psr/container" />
+      <excludeFolder url="file://$MODULE_DIR$/47crear-session-usuario-al-registrarse/vendor/symfony/console" />
+      <excludeFolder url="file://$MODULE_DIR$/47crear-session-usuario-al-registrarse/vendor/symfony/deprecation-contracts" />
+      <excludeFolder url="file://$MODULE_DIR$/47crear-session-usuario-al-registrarse/vendor/symfony/polyfill-ctype" />
+      <excludeFolder url="file://$MODULE_DIR$/47crear-session-usuario-al-registrarse/vendor/symfony/polyfill-mbstring" />
+      <excludeFolder url="file://$MODULE_DIR$/47crear-session-usuario-al-registrarse/vendor/symfony/polyfill-php73" />
+      <excludeFolder url="file://$MODULE_DIR$/47crear-session-usuario-al-registrarse/vendor/symfony/polyfill-php80" />
+      <excludeFolder url="file://$MODULE_DIR$/47crear-session-usuario-al-registrarse/vendor/symfony/service-contracts" />
+      <excludeFolder url="file://$MODULE_DIR$/47crear-session-usuario-al-registrarse/vendor/twig/twig" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>

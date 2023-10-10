@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="MessDetectorOptionsConfiguration">
+    <option name="transferred" value="true" />
+  </component>
+  <component name="PHPCSFixerOptionsConfiguration">
+    <option name="transferred" value="true" />
+  </component>
+  <component name="PHPCodeSnifferOptionsConfiguration">
+    <option name="highlightLevel" value="WARNING" />
+    <option name="transferred" value="true" />
+  </component>
+  <component name="PhpIncludePathManager">
+    <include_path>
+      <path value="$PROJECT_DIR$/24psr4/vendor/composer" />
+      <path value="$PROJECT_DIR$/23dompdf/vendor/composer" />
+      <path value="$PROJECT_DIR$/23dompdf/vendor/sabberworm/php-css-parser" />
+      <path value="$PROJECT_DIR$/23dompdf/vendor/masterminds/html5" />
+      <path value="$PROJECT_DIR$/23dompdf/vendor/phenx/php-font-lib" />
+      <path value="$PROJECT_DIR$/23dompdf/vendor/phenx/php-svg-lib" />
+      <path value="$PROJECT_DIR$/23dompdf/vendor/dompdf/dompdf" />
+      <path value="$PROJECT_DIR$/29phpdi/vendor/php-di/phpdoc-reader" />
+      <path value="$PROJECT_DIR$/29phpdi/vendor/laravel/serializable-closure" />
+      <path value="$PROJECT_DIR$/29phpdi/vendor/symfony/polyfill-ctype" />
+      <path value="$PROJECT_DIR$/29phpdi/vendor/symfony/polyfill-mbstring" />
+      <path value="$PROJECT_DIR$/29phpdi/vendor/composer" />
+      <path value="$PROJECT_DIR$/29phpdi/vendor/psr/container" />
+      <path value="$PROJECT_DIR$/29phpdi/vendor/twig/twig" />
+      <path value="$PROJECT_DIR$/29phpdi/vendor/nikic/fast-route" />
+      <path value="$PROJECT_DIR$/29phpdi/vendor/php-di/invoker" />
+      <path value="$PROJECT_DIR$/29phpdi/vendor/php-di/php-di" />
+      <path value="$PROJECT_DIR$/26fastrouter/vendor/composer" />
+      <path value="$PROJECT_DIR$/26fastrouter/vendor/nikic/fast-route" />
+      <path value="$PROJECT_DIR$/28phpdi/vendor/nikic/fast-route" />
+      <path value="$PROJECT_DIR$/28phpdi/vendor/php-di/invoker" />
+      <path value="$PROJECT_DIR$/28phpdi/vendor/php-di/php-di" />
+      <path value="$PROJECT_DIR$/28phpdi/vendor/php-di/phpdoc-reader" />
+      <path value="$PROJECT_DIR$/28phpdi/vendor/laravel/serializable-closure" />
+      <path value="$PROJECT_DIR$/28phpdi/vendor/symfony/polyfill-ctype" />
+      <path value="$PROJECT_DIR$/28phpdi/vendor/symfony/polyfill-mbstring" />
+      <path value="$PROJECT_DIR$/28phpdi/vendor/composer" />
+      <path value="$PROJECT_DIR$/28phpdi/vendor/psr/container" />
+      <path value="$PROJECT_DIR$/28phpdi/vendor/twig/twig" />
+      <path value="$PROJECT_DIR$/28.2phpdi/vendor/psr/container" />
+      <path value="$PROJECT_DIR$/28.2phpdi/vendor/twig/twig" />
+      <path value="$PROJECT_DIR$/28.2phpdi/vendor/nikic/fast-route" />
+      <path value="$PROJECT_DIR$/28.2phpdi/vendor/php-di/invoker" />
+      <path value="$PROJECT_DIR$/28.2phpdi/vendor/php-di/php-di" />
+      <path value="$PROJECT_DIR$/28.2phpdi/vendor/php-di/phpdoc-reader" />
+      <path value="$PROJECT_DIR$/28.2phpdi/vendor/laravel/serializable-closure" />
+      <path value="$PROJECT_DIR$/28.2phpdi/vendor/symfony/polyfill-ctype" />
+      <path value="$PROJECT_DIR$/28.2phpdi/vendor/symfony/polyfill-mbstring" />
+      <path value="$PROJECT_DIR$/28.2phpdi/vendor/composer" />
+    </include_path>
+  </component>
+  <component name="PhpProjectSharedConfiguration" php_language_level="8.0">
+    <option name="suggestChangeDefaultLanguageLevel" value="false" />
+  </component>
+  <component name="PhpStanOptionsConfiguration">
+    <option name="transferred" value="true" />
+  </component>
+  <component name="PhpUnit">
+    <phpunit_settings>
+      <PhpUnitSettings custom_loader_path="$PROJECT_DIR$/28.2phpdi/vendor/autoload.php" />
+    </phpunit_settings>
+  </component>
+  <component name="PsalmOptionsConfiguration">
+    <option name="transferred" value="true" />
+  </component>
+</project>
